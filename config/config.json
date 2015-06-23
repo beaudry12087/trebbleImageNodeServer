@@ -1,0 +1,8 @@
+{
+  "secret":       "fa1b770ea8f6bf98198ba0036b18fc66abd13655"
+, "magicHash":    "fa1b770ea8f6bf98198ba0036b18fc66abd13655"
+, "namespace":    ""
+, "maxListeners": 512,
+  "keepDownloads": true,
+  "maxDownloadCacheSize": 1000
+}
